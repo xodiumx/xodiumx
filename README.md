@@ -1,13 +1,29 @@
 <img src="https://raw.githubusercontent.com/xodiumx/xodiumx/main/header.png" alt="альтернативный текст">
 
 
-- 👋 Hi, I’m @xodiumx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Maks
+- 💻 I’m currently learning backend development and i want to start learning JS
 
-<!---
-xodiumx/xodiumx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Today I have the skills of:
+  - python
+  - basic django
+  - sql
+  - and little bit frontend
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodiumx)](https://github.com/xodiumx/github-readme-stats)
+
+My codewars 🙂
+
+[![codewars](https://www.codewars.com/users/oxdium/badges/large)](https://www.codewars.com/users/oxdium) 
+
+Contacts 📞
+
+<div id="badges">
+  <a href="https://t.me/maxalxeev">
+    <img src="https://img.shields.io/badge/-telegram-blue" alt="Telegram"/>
+  </a>
+  <a href="https://career.habr.com/oxdium">
+    <img src="https://img.shields.io/badge/-habr-orange" alt="Habr"/>
+  </a>
+</div>
