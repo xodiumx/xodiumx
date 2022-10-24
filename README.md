@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/xodiumx/xodiumx/main/header.png" alt="альтернативный текст">
+
+
 - 👋 Hi, I’m @xodiumx
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
