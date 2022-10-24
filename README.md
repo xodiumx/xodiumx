@@ -11,7 +11,7 @@ Today I have the skills of:
   - and little bit frontend
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodiumx)](https://github.com/xodiumx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodiumx&layout=compact)](https://github.com/xodiumx/github-readme-stats)
 
 My codewars 🙂
 
