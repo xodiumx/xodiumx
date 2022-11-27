@@ -25,10 +25,11 @@
 
 <div id="badges">
   <a href="https://t.me/maxalxeev">
-    <img src="https://ltdfoto.ru/images/2022/11/27/KNOPOCKA_MONTAZNAY_OBLAST_1_KOPIY.png" alt="Telegram"/>
+    <img src="https://ltdfoto.ru/images/2022/11/27/12121I_MONTAZNAY-OBLAST-1.png" alt="Telegram"/>
   </a>
+  <img src="https://ltdfoto.ru/images/2022/11/27/12121I_MONTAZNAY-OBLAST-1-KOPIY.png" alt="mail"/>
+  <img src="https://ltdfoto.ru/images/2022/11/27/IN_MONTAZNAY-OBLAST-1-KOPIY-4e7b0c737412228c4.png" alt="in"/>
   <a href="https://career.habr.com/oxdium">
     <img src="https://ltdfoto.ru/images/2022/11/27/KNOPOCKA_MONTAZNAY_OBLAST_1_KOPIY_2.png" alt="Habr"/>
   </a>
-  <img src="https://ltdfoto.ru/images/2022/11/27/KNOPOCKA_MONTAZNAY-OBLAST-1c9ecf4518e95b617.png" alt="Habr"/>
 </div>
