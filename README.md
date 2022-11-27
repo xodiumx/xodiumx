@@ -4,7 +4,7 @@
 <img src="https://ltdfoto.ru/images/2022/11/27/72B3C86E-8DC5-478B-B11E-1435117D2DD6.jpg" width="340" height="340" alt="Иллюстрация" align="right" vspace="5" hspace="5">
 </div>
 
-- I’m like reading📖, listening to the music🎵, playing the games🎮, traveling✈ and nature🏔
+- I like reading📖, listening to the music🎵, playing the games🎮, traveling✈ and nature🏔
 - 💻 I’m currently learning backend development and i want to start learning JS
 
 ## Today I have the skills of:
