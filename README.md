@@ -7,7 +7,7 @@
 - I like reading📖, listening to the music🎵, playing the games🎮, traveling✈ and nature🏔
 - 💻 I’m currently learning backend development and i want to start learning JS
 
-## Today I have the skills of:
+## My stack of technologies:
   - python
   - sql
   - django
