@@ -8,15 +8,15 @@
 - 💻 I’m currently learning backend development and i want to start learning JS
 
 ## My stack of technologies:
-  - python
-  - sql
-  - django
-  - DRF, FastAPI
-  - python-bots
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  - ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+  - ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) (bots)
   - and little bit frontend
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodiumx&layout=compact)](https://github.com/xodiumx/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xodiumx&show_icons=true&theme=radical)
 
 ## My codewars 🙂
 [![codewars](https://www.codewars.com/users/oxdium/badges/large)](https://www.codewars.com/users/oxdium) 
