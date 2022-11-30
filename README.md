@@ -16,7 +16,7 @@
   - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) (bots)
   - and little bit frontend
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xodiumx&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-one-lime.vercel.app/api/top-langs/?username=xodiumx&layout=compact&theme=radical)](https://github.com/xodiumx/github-readme-stats)
 
 ## My codewars 🙂
 [![codewars](https://www.codewars.com/users/oxdium/badges/large)](https://www.codewars.com/users/oxdium) 
