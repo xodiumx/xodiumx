@@ -13,8 +13,8 @@
   - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   - ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
   - ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) (bots)
-  - and little bit frontend
+  - ![Telegram](https://img.shields.io/badge/Telegram(bots)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/and_little_bit_frontend-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-one-lime.vercel.app/api/top-langs/?username=xodiumx&layout=compact&theme=radical)](https://github.com/xodiumx/github-readme-stats)
 
