@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/xodiumx/xodiumx/main/header.png" alt="альтернативный текст">
 
 <div class="container">
-<img src="https://ltdfoto.ru/images/2022/11/27/72B3C86E-8DC5-478B-B11E-1435117D2DD6.jpg" width="340" height="340" alt="Иллюстрация" align="right" vspace="5" hspace="5">
+<img src="https://raw.githubusercontent.com/xodiumx/xodiumx/main/photo.JPG" width="370" alt="Иллюстрация" align="right" vspace="5" hspace="5">
 </div>
 
 - I like reading📖, listening to the music🎵, playing the games🎮, traveling✈ and nature🏔
