@@ -5,7 +5,7 @@
 </div>
 
 - I like reading📖, listening to the music🎵, playing the games🎮, traveling✈ and nature🏔
-- 💻 I’m currently learning backend development and i want to start learning JS
+- 💻 I’m currently learning backend development and i want to start learning front(JS-React)
 
 ## My stack of technologies:
   - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,17 +17,20 @@
 
 [![Top Langs](https://github-readme-stats-one-lime.vercel.app/api/top-langs/?username=xodiumx&layout=compact&theme=radical)](https://github.com/xodiumx/github-readme-stats)
 
-## My codewars 🙂
-[![codewars](https://www.codewars.com/users/oxdium/badges/large)](https://www.codewars.com/users/oxdium) 
-
-## Contacts 📞
+## Networks 👨‍💻
 
 <div id="badges">
   <a href="https://t.me/maxalxeev">
-    <img src="https://ltdfoto.ru/images/2022/11/27/12121I_MONTAZNAY-OBLAST-1.png" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <img src="https://ltdfoto.ru/images/2022/11/27/12121I_MONTAZNAY-OBLAST-1-KOPIY.png" alt="mail"/>
+  <img src="https://img.shields.io/badge/am.xlexeev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
   <a href="https://career.habr.com/oxdium">
-    <img src="https://ltdfoto.ru/images/2022/11/27/KNOPOCKA_MONTAZNAY_OBLAST_1_KOPIY_2.png" alt="Habr"/>
+    <img src="https://img.shields.io/badge/HABR-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" alt="Habr"/>
+  </a>
+  <a href="https://ru.stackoverflow.com/users/516938/maksim-alekseev">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"/>
+  </a>
+  <a href="https://www.codewars.com/users/oxdium">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
   </a>
 </div>
