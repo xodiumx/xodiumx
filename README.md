@@ -4,9 +4,9 @@
 <img src="https://raw.githubusercontent.com/xodiumx/xodiumx/main/photo.JPG" width="370" alt="Иллюстрация" align="right" vspace="5" hspace="5">
 </div>
 
-* **I like** reading📖, listening to the music🎵, playing the games🎮, traveling✈ and nature🏔
 * 🌍 **Born** on earth
 * 🗣 **I speak:** Russian, English, Czech
+* **I like** reading📖, listening to the music🎵, playing the games🎮, traveling✈ and nature🏔
 * 👨‍🎓 **Education:**
     + *Surgut state university - Faculty ("Economic and Management") Speciality ("Finance") 2016-2019*
     + *Czech language courses in Prague 2019-2020*
