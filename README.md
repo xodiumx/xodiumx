@@ -4,8 +4,17 @@
 <img src="https://raw.githubusercontent.com/xodiumx/xodiumx/main/photo.JPG" width="370" alt="Иллюстрация" align="right" vspace="5" hspace="5">
 </div>
 
-- I like reading📖, listening to the music🎵, playing the games🎮, traveling✈ and nature🏔
-- 💻 I’m currently learning backend development and i want to start learning front(JS-React)
+* **I like** reading📖, listening to the music🎵, playing the games🎮, traveling✈ and nature🏔
+* 🌍 **Born** on earth
+* 🗣 **I speak:** Russian, English, Czech
+* 👨‍🎓 **Education:**
+    + *Surgut state university - Faculty ("Economic and Management") Speciality ("Finance") 2016-2019*
+    + *Czech language courses in Prague 2019-2020*
+    + *Vysoká škola ekonomická v Praze - Fakulta financí a účetnictví 2020-2021*
+* 💻 I’m currently **learning** backend development and i want to start learning front(JS-React)
+    
+## I use:
+![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## My stack of technologies:
   - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
