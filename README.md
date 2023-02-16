@@ -22,11 +22,11 @@
     <img src="https://github-readme-stats-9x3a.vercel.app/api/top-langs/?username=xodiumx&layout=compact&theme=radical" width="370" alt="Иллюстрация" align="right" vspace="5" hspace="5">
 </div>
 
-  - ![Python](https://img.shields.io/badge/python-32144f?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-  - ![SQLite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgresql-32144f?style=for-the-badge&logo=postgresql&logoColor=white)
-  - ![Django](https://img.shields.io/badge/django-32144f?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-000000?style=for-the-badge&logo=django&logoColor=white&color=32144f&labelColor=black)
+  - ![Python](https://img.shields.io/badge/python-201933?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+  - ![SQLite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgresql-201933?style=for-the-badge&logo=postgresql&logoColor=white)
+  - ![Django](https://img.shields.io/badge/django-201933?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-000000?style=for-the-badge&logo=django&logoColor=white&color=201933&labelColor=black)
   - ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-  - ![Telegram](https://img.shields.io/badge/Telegram(bots)-32144f?style=for-the-badge&logo=telegram&logoColor=white)
+  - ![Telegram](https://img.shields.io/badge/Telegram(bots)-201933?style=for-the-badge&logo=telegram&logoColor=white)
   - ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Networks 👨‍💻
