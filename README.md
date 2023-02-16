@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/xodiumx/xodiumx/main/header.png" alt="альтернативный текст">
+<img src="https://github.com/xodiumx/xodiumx/blob/main/new_header.png" alt="header">
 
 <div class="container">
 <img src="https://raw.githubusercontent.com/xodiumx/xodiumx/main/photo.JPG" width="370" alt="Иллюстрация" align="right" vspace="5" hspace="5">
