@@ -26,7 +26,7 @@
   - ![SQLite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgresql-201933?style=for-the-badge&logo=postgresql&logoColor=white)
   - ![Django](https://img.shields.io/badge/django-201933?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-000000?style=for-the-badge&logo=django&logoColor=white&color=201933&labelColor=black)
   - ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-  - ![Telegram](https://img.shields.io/badge/Telegram(bots)-201933?style=for-the-badge&logo=telegram&logoColor=white)
+  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-201933?style=for-the-badge&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-201933?style=for-the-badge&logo=docker&logoColor=white)
   - ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Networks 👨‍💻
@@ -39,11 +39,11 @@
   <a href="https://ru.stackoverflow.com/users/516938/maksim-alekseev">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"/>
   </a>
-  <a href="https://www.codewars.com/users/oxdium">
-    <img src="https://img.shields.io/badge/Codewars-FE7A16?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
+  <a href="https://www.linkedin.com/in/maks-alekseev/">
+    <img src="https://img.shields.io/badge/linkedin-FE7A16?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://stepik.org/users/526482364">
-    <img src="https://img.shields.io/badge/Stepik-D14836.svg?style=for-the-badge&logo=Stepik" alt="Stepik"/>
+  <a href="https://www.codewars.com/users/oxdium">
+    <img src="https://img.shields.io/badge/Codewars-D14836?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
   </a>
   <a href="https://leetcode.com/oxdium/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode"/>
