@@ -35,15 +35,17 @@
   <a href="https://t.me/maxalxeev">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <img src="https://img.shields.io/badge/am.xlexeev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
   <a href="https://ru.stackoverflow.com/users/516938/maksim-alekseev">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"/>
+  </a>
+  <a href="https://stepik.org/users/526482364">
+    <img src="https://img.shields.io/badge/Stepik-FE7A16?style=for-the-badge&logo=Stepik" alt="Stepik"/>
   </a>
   <a href="https://www.linkedin.com/in/maks-alekseev/">
     <img src="https://img.shields.io/badge/linkedin-FE7A16?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.codewars.com/users/oxdium">
-    <img src="https://img.shields.io/badge/Codewars-D14836?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
+    <img src="https://img.shields.io/badge/Codewars-FE7A16?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
   </a>
   <a href="https://leetcode.com/oxdium/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode"/>
