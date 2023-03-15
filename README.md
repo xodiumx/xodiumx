@@ -10,8 +10,8 @@
 * 👨‍🎓 **Education:**
     + *Surgut state university - Faculty ("Economic and Management") Speciality ("Finance") 2016-2019*
     + *Czech language courses in Prague 2019-2020*
-    + *Vysoká škola ekonomická v Praze - Fakulta financí a účetnictví 2020-2022*
-    + *Yandex.Practicum "Python-developer" 2023*
+    + *Vysoká škola ekonomická v Praze - Fakulta financí a účetnictví 2020-2021*
+    + *Yandex.Practicum "Python-developer" 2022-2023*
 * 💻 I’m currently **learning** backend development and i want to start learning front(JS-React)
     
 ## I use:
