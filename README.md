@@ -23,12 +23,13 @@
     <img src="https://github-readme-stats-9x3a.vercel.app/api/top-langs/?username=xodiumx&layout=compact&theme=radical" width="370" alt="Иллюстрация" align="right" vspace="5" hspace="5">
 </div>
 
-  - ![Python](https://img.shields.io/badge/python-201933?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-  - ![SQLite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgresql-201933?style=for-the-badge&logo=postgresql&logoColor=white)
-  - ![Django](https://img.shields.io/badge/django-201933?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-000000?style=for-the-badge&logo=django&logoColor=white&color=201933&labelColor=black)
-  - ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-201933?style=for-the-badge&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-201933?style=for-the-badge&logo=docker&logoColor=white)
-  - ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
+  - ![Python](https://img.shields.io/badge/python-201933?style=for-the-badge&logo=python&logoColor=white) ![asyncio](https://img.shields.io/badge/asyncio-000000?style=for-the-badge&logo=python&logoColor=white) ![selenium](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=python&logoColor=white) ![PEP8](https://img.shields.io/badge/flake8-000000?style=for-the-badge&logo=python&logoColor=white)
+  - ![Django](https://img.shields.io/badge/django-201933?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-000000?style=for-the-badge&logo=django&logoColor=white&color=201933&labelColor=black) ![Swagger](https://img.shields.io/badge/swagger-000000?style=for-the-badge&logo=&logoColor=white) ![Redoc](https://img.shields.io/badge/redoc-000000?style=for-the-badge&logo=&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=&logoColor=white)
+  - ![FastAPI](https://img.shields.io/badge/FastAPI-201933?style=for-the-badge&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=&logoColor=white)
+  - ![Postgres](https://img.shields.io/badge/postgresql-201933?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-201933?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-201933?style=for-the-badge&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-201933?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-201933?style=for-the-badge&logo=docker&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/javascript-201933?style=for-the-badge&logo=javascript&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/html5-201933?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-201933?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Networks 👨‍💻
 
