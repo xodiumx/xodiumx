@@ -15,7 +15,7 @@
 * 💻 I’m currently **learning** backend development and i want to start learning front(JS-React)
     
 ## I use:
-- ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![Sublime Text](https://img.shields.io/badge/sublime_text-0078D6?style=for-the-badge&logo=sublime-text&logoColor=white) ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
+- ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black) ![bash](https://img.shields.io/badge/Bash-0078D6?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![Sublime Text](https://img.shields.io/badge/sublime_text-0078D6?style=for-the-badge&logo=sublime-text&logoColor=white) ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white) ![postman](https://img.shields.io/badge/Postman-0078D6?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## My stack of technologies:
 
