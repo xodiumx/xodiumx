@@ -20,7 +20,7 @@
 ## My stack of technologies:
 
 <div class="container">
-    <img src="https://github-readme-stats-9x3a.vercel.app/api/top-langs/?username=xodiumx&layout=compact&theme=radical" width="370" alt="Иллюстрация" align="right" vspace="5" hspace="5">
+    <img src="https://github-readme-stats-xodiumx.vercel.app/api/top-langs/?username=xodiumx&layout=compact&theme=radical" width="370" alt="Иллюстрация" align="right" vspace="5" hspace="5">
 </div>
 
   - ![Python](https://img.shields.io/badge/python-201933?style=for-the-badge&logo=python&logoColor=white) ![asyncio](https://img.shields.io/badge/asyncio-000000?style=for-the-badge&logo=python&logoColor=white) ![selenium](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=python&logoColor=white) ![PEP8](https://img.shields.io/badge/flake8-000000?style=for-the-badge&logo=python&logoColor=white)
