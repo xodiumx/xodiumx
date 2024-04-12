@@ -12,7 +12,8 @@
     + *Czech language courses in Prague 2019-2020*
     + *Vysoká škola ekonomická v Praze - Fakulta financí a účetnictví 2020-2021*
     + *Yandex.Practicum "Python-developer" 2021-2022*
-* 💻 I am currently working as a **python backend developer**. I am also learning ML, DevOps and plan to learn golang.
+* 💻 I am currently working as a **python developer**. I am also learning DevOps and Golang.
+* 🙋‍♂️ Open to work, write to telegram or mail.
     
 ## I use:
 - ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=orange) ![postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
