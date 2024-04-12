@@ -34,9 +34,6 @@
   <a href="https://ru.stackoverflow.com/users/516938/maksim-alekseev">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"/>
   </a>
-  <a href="https://stepik.org/users/526482364">
-    <img src="https://img.shields.io/badge/Stepik-FE7A16?style=for-the-badge&logo=Stepik" alt="Stepik"/>
-  </a>
   <a href="https://www.linkedin.com/in/maks-alekseev/">
     <img src="https://img.shields.io/badge/linkedin-FE7A16?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
