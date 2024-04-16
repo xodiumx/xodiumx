@@ -6,6 +6,11 @@
 
 * 🌍 **Born** on earth
 * 🗣 **I speak:** Russian, English, Czech
+* 🚀 I want to travel to Iceland, Australia, America and Mars.
+* ⭐ I post examples of using different technologies I will be glad if you put a star =)
+* 👨‍🎓 **Education:**
+    + *Surgut state university - Faculty ("Economic and Management") Speciality ("Finance") 2016-2019*
+    + *Vysoká škola ekonomická v Praze - Fakulta financí a účetnictví 2020-2021*
 * 💻 I am currently working as a **python developer**. I am also learning DevOps and Golang dev.
 * 🙋‍♂️ Open to work, write to telegram or mail.
     
