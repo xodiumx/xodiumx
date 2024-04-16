@@ -6,13 +6,7 @@
 
 * 🌍 **Born** on earth
 * 🗣 **I speak:** Russian, English, Czech
-* **I like** reading📖, listening to the music🎵, playing the games🎮, traveling✈ and nature🏔
-* 👨‍🎓 **Education:**
-    + *Surgut state university - Faculty ("Economic and Management") Speciality ("Finance") 2016-2019*
-    + *Czech language courses in Prague 2019-2020*
-    + *Vysoká škola ekonomická v Praze - Fakulta financí a účetnictví 2020-2021*
-    + *Yandex.Practicum "Python-developer" 2021-2022*
-* 💻 I am currently working as a **python developer**. I am also learning DevOps and Golang.
+* 💻 I am currently working as a **python developer**. I am also learning DevOps and Golang dev.
 * 🙋‍♂️ Open to work, write to telegram or mail.
     
 ### I use:
