@@ -6,8 +6,8 @@
 
 * 🌍 **Born** on earth
 * 🗣 **I speak:** Russian, English, Czech
-* 🚀 I want to travel to Iceland, Australia, America and Mars.
-* ⭐ I post examples of using different technologies I will be glad if you put a star =)
+* 🚀 I want to travel to Iceland, Australia, Japan, America and Mars.
+* ⭐ I'm posting examples of how to use different technologies I'd be glad if you find them useful and give them a star =)
 * 👨‍🎓 **Education:**
     + *Surgut state university - Faculty ("Economic and Management") Speciality ("Finance") 2016-2019*
     + *Vysoká škola ekonomická v Praze - Fakulta financí a účetnictví 2020-2021*
