@@ -37,9 +37,6 @@
   <a href="https://www.linkedin.com/in/maks-alekseev/">
     <img src="https://img.shields.io/badge/linkedin-FE7A16?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.codewars.com/users/oxdium">
-    <img src="https://img.shields.io/badge/Codewars-FE7A16?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
-  </a>
   <a href="https://leetcode.com/oxdium/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode"/>
   </a>
