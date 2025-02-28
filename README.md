@@ -11,7 +11,7 @@
 * 👨‍🎓 **Education:**
     + *Surgut state university - Faculty ("Economic and Management") Speciality ("Finance") 2016-2019*
     + *Vysoká škola ekonomická v Praze - Fakulta financí a účetnictví 2020-2021*
-* 💻 I am currently working as a **python developer**. I am also learning DevOps and Golang dev.
+* 💻 **python developer** with three years of experience. Also familiar with **GoLang** and learning **ML**.
 * 🙋‍♂️ Open to work, write to telegram or mail.
     
 ### I use:
