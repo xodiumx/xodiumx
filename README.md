@@ -28,7 +28,7 @@
 ## Networks 👨‍💻
 
 <div id="badges">
-  <a href="https://t.me/xlekseev">
+  <a href="https://t.me/axlekseev">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://ru.stackoverflow.com/users/516938/maksim-alekseev">
