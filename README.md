@@ -5,12 +5,11 @@
 </div>
 
 * 🌍 **Born** on earth
-* 🗣 **I speak:** Russian, English, Czech
+* 🗣 **I speak:** Russian, English
 * 🚀 I want to travel to Iceland, Australia, Japan, America and Mars.
 * ⭐ I'm posting examples of how to use different technologies I'd be glad if you find them useful and give them a star =)
 * 👨‍🎓 **Education:**
     + *Surgut state university - Faculty ("Economic and Management") Speciality ("Finance") 2016-2019*
-    + *Vysoká škola ekonomická v Praze - Fakulta financí a účetnictví 2020-2021*
 * 💻 **python developer** with three years of experience. Also familiar with **GoLang** and learning **ML**.
 * 🙋‍♂️ Open to work, write to telegram or mail.
     
