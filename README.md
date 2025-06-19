@@ -37,8 +37,8 @@
 >
 > AI: transformers | nltk | spacy | langchain | pydantic-ai
 
-<div class="container">
-    <img src="https://leetcard.jacoblin.cool/oxdium?theme=radical&width=480" alt="Stats" align="left">
-    <img src="https://github-readme-stats-5han-git-master-xodiumxs-projects.vercel.app/api/top-langs/?username=xodiumx&hide=javascript,html,Jupyter%20Notebook,Mustache,CSS,SCSS,Vue,TypeScript&theme=radical&layout=compact" alt="Stats" align="right">
+<div style="display: inline-block; vertical-align: top;">
+  <img src="https://leetcard.jacoblin.cool/oxdium?theme=radical&width=480" alt="LeetCode Stats" align="left">
+  <img src="https://github-readme-stats-5han-git-master-xodiumxs-projects.vercel.app/api/top-langs/?username=xodiumx&hide=javascript,html,Jupyter%20Notebook,Mustache,CSS,SCSS,Vue,TypeScript&theme=radical&layout=compact" alt="GitHub Stats" width="350" align="right">
 </div>
 
