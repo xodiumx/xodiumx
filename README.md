@@ -39,8 +39,6 @@
 
 <div class="container">
     <img src="https://leetcard.jacoblin.cool/oxdium?theme=radical&width=490" alt="Stats" align="left">
-</div>
-
-<div class="container">
     <img src="https://github-readme-stats-5han-git-master-xodiumxs-projects.vercel.app/api/top-langs/?username=xodiumx&hide=javascript,html,Jupyter%20Notebook,Mustache,CSS,SCSS,Vue,TypeScript&theme=radical&layout=compact" alt="Stats" align="right">
 </div>
+
