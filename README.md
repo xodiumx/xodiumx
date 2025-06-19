@@ -15,13 +15,11 @@
 
 ### Networks 👨‍💻
 
-- Contact me: [![](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/axlekseev)
-- TG Chanel: [![](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iprogu)
-- StackOverflow profile: [![](https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/516938/maksim-alekseev)
+[![](https://img.shields.io/badge/Contact%20me-00B7EB?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/axlekseev) [![](https://img.shields.io/badge/TG%20Chanel-00B7EB?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iprogu) 
     
 ### I use: ✔️
 
-- ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white) ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=orange) ![postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-000000?style=for-the-badge&logo=openai&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)
+![Use](https://go-skill-icons.vercel.app/api/icons?i=pycharm,vscode,goland,github,gitlab,postman,chatgpt,obsidian)
 
 ## Skills 🛠️
 
@@ -37,8 +35,9 @@
 >
 > AI: transformers | nltk | spacy | langchain | pydantic-ai
 
+[![](https://ru.stackoverflow.com/users/flair/516938.png?theme=dark)](https://ru.stackoverflow.com/users/516938/maksim-alekseev?theme=dark)
+
 <div style="display: inline-block; vertical-align: top;">
   <img src="https://leetcard.jacoblin.cool/oxdium?theme=radical&width=490" alt="LeetCode Stats" align="left">
   <img src="https://github-readme-stats-5han-git-master-xodiumxs-projects.vercel.app/api/top-langs/?username=xodiumx&hide=javascript,html,Jupyter%20Notebook,Mustache,CSS,SCSS,Vue,TypeScript&theme=radical&layout=compact" alt="GitHub Stats" width="310" align="right">
 </div>
-
