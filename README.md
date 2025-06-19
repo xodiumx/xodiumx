@@ -38,7 +38,7 @@
 > AI: transformers | nltk | spacy | langchain | pydantic-ai
 
 <div class="container">
-    <img src="https://leetcard.jacoblin.cool/oxdium?theme=radical" alt="Stats" align="left">
+    <img src="https://leetcard.jacoblin.cool/oxdium?theme=radical&width=490" alt="Stats" align="left">
 </div>
 
 <div class="container">
